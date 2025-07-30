@@ -4,6 +4,9 @@ description: List of all my past CTF compétitions and Conferences
 slug: ctfs
 date: 2025-05-12 00:00:00+0000  
 weight: 2
+tags:
+    - CTFs
+    - Conferences
 ---
 
 **CTFs**
