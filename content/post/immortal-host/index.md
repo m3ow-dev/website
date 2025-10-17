@@ -7,7 +7,7 @@ tags:
  - immortal.host
 ---
 
-# Immortal.host – Game Server Hosting That Never Lags
+# [Immortal.host](https://immortal.host) – Game Server Hosting That Never Lags
 
 Your game server is only as good as its infrastructure. Stuttering. Lag. Downtime. These aren't just problems—they're **player killers**.
 
@@ -36,4 +36,6 @@ Host your game's website, launcher, or community portal alongside your servers�
 ✓ **Customizable Performance** – Hosting tuned for your specific game engine and player count  
 ✓ **Global Server Locations** – Deploy where your players are for maximum performance  
 
-**Stop settling for lag. Start winning with Immortal.host.**
+**Stop settling for lag. Start winning with [Immortal.host](https://immortal.host)**
+
+https://immortal.host
