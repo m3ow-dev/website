@@ -13,6 +13,7 @@ tags:
 
 | Year | Placement | Event | 
 |------|-----------|-------|
+| 2025 | Challenge Designer | HackFest|
 | 2025 | #72 / 92 teams| NorthSec (First real CTF)|
 | 2025 | 3rd place | CTF intercollégial du Cégep de Bois-de-Boulogne |
 | 2025 | #228 / 4350 teams (top 5.24%)|TryHackMe Hackfinity |
