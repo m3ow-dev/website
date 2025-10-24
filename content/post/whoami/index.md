@@ -1,3 +1,4 @@
+---
 title: whoami
 description: Who is Charles M?
 slug: whoami
@@ -5,7 +6,9 @@ date: 2025-07-30 00:00:00+0000
 weight: 3
 tags:
  - whoami
+
 ---
+
 # Charles M (m3ow)
 ## Past Accomplishments
 ### Education
