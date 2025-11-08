@@ -9,6 +9,8 @@ tags:
 
 ---
 
+# [DOWNLOAD CV](https://blog.m3ow.dev/resume-2025.pdf)
+
 # Charles M (m3ow)
 ## Past Accomplishments
 ### Education
