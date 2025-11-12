@@ -1,15 +1,17 @@
 ---
-title: whoami
-description: Who is Charles M?
-slug: whoami
+title: Resume
+description: Resume and curriculum vitae
+slug: resume
 date: 2025-07-30 00:00:00+0000
 weight: 3
 tags:
- - whoami
+ - cv
+ - resume
 
 ---
 
-# [DOWNLOAD CV](https://blog.m3ow.dev/resume-2025.pdf)
+# [DOWNLOAD CV](/resume.pdf)
+# [VIEW CV (PURE HTML)](/resume.html)
 
 # Charles M (m3ow)
 ## Past Accomplishments
@@ -45,4 +47,3 @@ tags:
   - CyberConference
   - InCyberForum
 ---
-*Passionate about cybersecurity, technology innovation, and continuous learning. Always seeking new challenges in the ever-evolving landscape of information security.*
