@@ -13,8 +13,7 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "👾"
-subtitle = "| CPTS Certified | Cybersecurity enjoyer "
+subtitle = "| CPTS Certified | "
 
 [sidebar.avatar]
 enabled = true

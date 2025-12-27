@@ -1,6 +1,6 @@
 ---
 title: Competitions (CTFS and Conferences)
-description: List of all my past CTF compétitions and Conferences
+description: List of all my past CTF competitions and Conferences
 slug: ctfs
 date: 2025-05-12 00:00:00+0000  
 weight: 2
@@ -13,10 +13,11 @@ tags:
 
 | Year | Placement | Event | 
 |------|-----------|-------|
+| 2025 | 6th / 19 in Montreal, 22nd / 86 in Canada | Cybersci |
 | 2025 | Challenge Designer | HackFest|
 | 2025 | #72 / 92 teams| NorthSec (First real CTF)|
 | 2025 | 3rd place | CTF intercollégial du Cégep de Bois-de-Boulogne |
-| 2025 | #228 / 4350 teams (top 5.24%)|TryHackMe Hackfinity |
+| 2025 | #228 / 4350 teams (top 5.24%)| TryHackMe Hackfinity |
 | 2024| Unknown |NorthSec |
 
 **Conferences**
