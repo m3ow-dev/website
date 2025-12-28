@@ -13,37 +13,96 @@ tags:
 # [DOWNLOAD CV](/resume.pdf)
 # [VIEW CV (PURE HTML)](/resume.html)
 
-# Charles M (m3ow)
-## Past Accomplishments
-### Education
-#### Université de Sherbrooke
-- **CTFs and Competitions**: Involved in the school's cybersecurity club (JDIS)
-- **Specialisation in Cyber Security**
-#### Cégep de Saint-Hyacinthe
-- **Leadership in Technology**: Heavily involved in the school's computer science clubs and pioneered the establishment of the cybersecurity club
-- **Competitive Achievement**: Placed 3rd in the CTF intercollégial du cégep Bois-de-Boulogne, representing the school's inaugural participation in a Capture The Flag competition
-- **Technical Support Role**: Served as Tech Support Technician for students and faculty at CAPTIC (Centre d'aide pédagogique sur les technologies de l'information)
-- **Academic Excellence**: Consistently ranked among the top performers in multiple concentration courses
-#### High School - Notre Dame de Lourdes
-- **Robotics Success**: Active member of the school's robotics team, contributing to their first-ever competition victory
-- **Academic Recognition**: Achieved the highest overall grade in the chemistry final exam across the entire school
-- **Advanced Coursework**: Specialized in Chemistry, Physics, and enriched Mathematics
-- **International Program**: Completed the International Baccalaureate program
-### Professional Certifications
-- **CPTS Certification**: Earned the Certified Penetration Testing Specialist (CPTS) certification in May 2024 after completing the comprehensive HackTheBox curriculum within one year
-- **TryHackMe Recognition**: Achieved top 5% ranking on the TryHackMe global leaderboard
-### Entrepreneurial & Personal Projects
-#### Business Ventures
-- **Immortal Hosting**: Founded and developed [Immortal Hosting](/p/immortal-host/) from the ground up, specializing in game server hosting solutions
-- **Nova PC**: Founded and developed [Nova PC](/p/nova-pc) from the ground up, specializing in custom computer builds
-#### Competitive Cybersecurity
-- **CTF Competitions**: Active participant in numerous [Capture The Flag competitions](/p/ctfs) and cybersecurity clubs, including:
-  - Hackfest
-  - NorthSec
-  - MontréHack
-  - JDIS
-#### Professional Development
-- **Industry Engagement**: Regular attendee at prominent cybersecurity [conferences](/p/ctfs), including:
-  - CyberConference
-  - InCyberForum
+# Charles McLean
+
+**CPTS | Cyber Security Analyst | Aspiring Cloud Architect**
+
+[c@m3ow.dev](mailto:c@m3ow.dev) | +1 514-219-6806 | [GitHub](https://github.com/m3ow-dev) | [LinkedIn](https://www.linkedin.com/in/m3ow/)
+
+> **Summary**
+> CPTS certified Cyber Security Analyst and Founder of Immortal Hosting. I bridge the gap between offensive security and defensive engineering by architecting production-grade, secure-by-design infrastructure.
+
 ---
+
+### Professional Experience
+
+**Founder & Lead Infrastructure Architect** | [Immortal Hosting](https://immortal.host)
+*Sep 2025 – Present*
+
+* Designed and deployed a production-grade hosting ecosystem entirely on open-source software.
+* Architected a 3-node hybrid cluster (Enterprise Xeon + High-Perf AMD) utilizing KVM, Kubernetes, and Podman.
+* Secured the environment with a Zero Trust network stack (Cloudflare, Caddy, Authentik SSO) and active Intrusion Detection Systems (IDS).
+* Implemented a private Gitea CI/CD pipeline, high-availability MariaDB, and automated off-site S3 backups for disaster recovery.
+
+**Cyber Security Analyst** | N'ware Technologies
+*May 2025 – Present*
+
+* Conduct security assessments and penetration testing engagements.
+* Analyze security vulnerabilities and provide remediation recommendations.
+* Collaborate with teams to enhance client security postures and implement defensive strategies.
+
+**IT Technician** | Cégep de Saint-Hyacinthe
+*Dec 2024 – May 2025*
+
+* Provided comprehensive technical support to students, teachers, and staff across the institution.
+
+---
+
+### Education
+
+**Bachelor of Science, Cyber Security Specialization**
+*Université de Sherbrooke* | *Aug 2025 – Present*
+
+* Active member of JDIS.
+* Regularly participate in CTF competitions.
+
+**Diploma of College Studies (DEC), Réseaux et cybersécurité**
+*Cégep de Saint-Hyacinthe* | *Aug 2023 – Jun 2025*
+
+* Pioneered the establishment of the institution's cybersecurity club.
+* Led team to 3rd place finish in CTF intercollégial du cégep Bois-de-Boulogne.
+* Consistently ranked among top performers in concentration courses.
+
+---
+
+### Skills
+
+|  |  |
+| --- | --- |
+| **Infrastructure & Cloud** | Kubernetes, Docker, Podman, KVM, Linux Administration |
+| **Security & Identity** | CPTS, Authentik (IAM), Zero Trust Networking, DDoS Mitigation, Intrusion Detection (IDS) |
+| **DevOps & Automation** | CI/CD, Git, S3 Backups, Disaster Recovery |
+| **Web & Database** | Next.js, React, Caddy, Cloudflare |
+
+---
+
+### Certifications & Awards
+
+**Certifications**
+
+* **Certified Penetration Testing Specialist (CPTS)** | Hack The Box (May 2024)
+* **Top 5% Global Ranking** | TryHackMe
+
+**Awards & Competitions**
+
+* **6th / 19 in Montreal, 22nd / 86 in Canada** - Cybersci (2025)
+* **Challenge Designer** - HackFest CTF (2025)
+* **3rd Place** - CTF intercollégial (2025)
+* **#72/92** - NorthSec CTF (2025)
+
+---
+
+### Projects
+
+* **[High-Performance Hybrid Cloud (Immortal Hosting)](https://immortal.host)**: Production infrastructure project
+* **[Nova PC](https://m3ow.dev/p/nova-pc)**: Custom computer building business.
+
+---
+
+### Conferences
+
+* CyberConference (2025)
+* Hackfest (2024)
+* NorthSec (2024)
+* InCyberForum (2024)
+* CyberConference (2023)
