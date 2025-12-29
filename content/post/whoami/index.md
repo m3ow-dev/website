@@ -17,7 +17,7 @@ tags:
 
 **CPTS | Cyber Security Analyst | Aspiring Cloud Architect**
 
-[c@m3ow.dev](mailto:c@m3ow.dev) | +1 514-219-6806 | [GitHub](https://github.com/m3ow-dev) | [LinkedIn](https://www.linkedin.com/in/m3ow/)
+[c@m3ow.dev](mailto:c@m3ow.dev) | [GitHub](https://github.com/m3ow-dev) | [LinkedIn](https://www.linkedin.com/in/m3ow/)
 
 > **Summary**
 > CPTS certified Cyber Security Analyst and Founder of Immortal Hosting. I bridge the gap between offensive security and defensive engineering by architecting production-grade, secure-by-design infrastructure.
