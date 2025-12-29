@@ -65,17 +65,6 @@ tags:
 
 ---
 
-### Skills
-
-|  |  |
-| --- | --- |
-| **Infrastructure & Cloud** | Kubernetes, Docker, Podman, KVM, Linux Administration |
-| **Security & Identity** | CPTS, Authentik (IAM), Zero Trust Networking, DDoS Mitigation, Intrusion Detection (IDS) |
-| **DevOps & Automation** | CI/CD, Git, S3 Backups, Disaster Recovery |
-| **Web & Database** | Next.js, React, Caddy, Cloudflare |
-
----
-
 ### Certifications & Awards
 
 **Certifications**
@@ -106,3 +95,14 @@ tags:
 * NorthSec (2024)
 * InCyberForum (2024)
 * CyberConference (2023)
+
+---
+
+### Skills
+
+|  |  |
+| --- | --- |
+| **Infrastructure & Cloud** | Kubernetes, Docker, Podman, KVM, Linux Administration |
+| **Security & Identity** | CPTS, Authentik (IAM), Zero Trust Networking, DDoS Mitigation, Intrusion Detection (IDS) |
+| **DevOps & Automation** | CI/CD, Git, S3 Backups, Disaster Recovery |
+| **Web & Database** | Next.js, React, Caddy, Cloudflare |

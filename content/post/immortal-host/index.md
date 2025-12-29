@@ -8,8 +8,8 @@ tags:
 ---
 
 ## Introduction
-
-Immortal Hosting is not just a standard hosting provider; it is a sophisticated, self-managed infrastructure project designed to deliver high-performance application and game server hosting. Built on a foundation of modern DevOps practices, it leverages container orchestration, edge computing, and high-availability database clusters to ensure resilience and scalability.
+[Immortal Hosting](https://immortal.host)
+ is not just a standard hosting provider; it is a sophisticated, self-managed infrastructure project designed to deliver high-performance application and game server hosting. Built on a foundation of modern DevOps practices, it leverages container orchestration, edge computing, and high-availability database clusters to ensure resilience and scalability.
 
 Below is a technical resume of the architecture and technologies currently powering the **Immortal.host** ecosystem.
 
@@ -35,6 +35,7 @@ At the heart of Immortal Hosting lies a commitment to modern containerization an
 Efficiency and reliability are driven by automated pipelines, ensuring that code moves from development to production seamlessly.
 
 * **Managed Private Gitea:** The ecosystem is powered by a private, self-managed **Gitea** instance. This acts as the central hub for version control, hosting both application source code and Infrastructure-as-Code (IaC) repositories securely.
+![Git](git.png)
 * **CI/CD Runners:** Integrated CI/CD runners are deployed to automate the software lifecycle. These runners handle testing, building, and deploying applications directly to the Kubernetes clusters, ensuring rapid iteration cycles and consistent delivery.
 
 ## Identity & Access Management
@@ -42,6 +43,7 @@ Efficiency and reliability are driven by automated pipelines, ensuring that code
 Security starts with identity. To protect the ecosystem, a unified authentication layer has been implemented across the board.
 
 * **Authentik:** The infrastructure relies on **Authentik** as the central Identity Provider (IdP). This creates a seamless Single Sign-On (SSO) experience while enforcing strict access policies for all internal tools and panels.
+![Auth](auth.png)
 
 ## Database Architecture
 
@@ -55,6 +57,7 @@ Data integrity and availability are prioritized.
 A primary function of the infrastructure is hosting low-latency, high-performance game servers.
 
 * **Pelican Panel:** The infrastructure utilizes **Pelican Panel**, a modern, open-source game server management panel. This provides a centralized interface for deploying and managing game server instances.
+![Panel](panel.png)
 * **GTA V / FiveM:** A key workload includes **FiveM** servers, optimized for GTA V roleplay and gaming communities. The network is tuned to handle the UDP traffic and real-time demands of multiplayer gaming.
 
 ## Networking & Security
@@ -73,13 +76,18 @@ The network stack is designed for speed, security, and ease of management, utili
 Maintaining high uptime requires vigilance and a proactive stance on support.
 
 * **Continuous Monitoring:** The health of the infrastructure is tracked in real-time. Automated monitoring systems keep a pulse on server metrics, container health, and network latency.
+![Monitoring](monitoring.png)
+
 * **Unbeaten Support:** Beyond the code, the human element is a core pillar. As the founder, I provide responsive, technical support, bridging the gap between complex hosting infrastructure and end-user needs.
+![Status Page](status.png)
 
 ## Web Development
 
 Beyond infrastructure, the ecosystem supports custom web applications.
 
 * **Next.js (React):** The frontend components (such as landing pages or status dashboards) are built using **Next.js**. This allows for a reactive, component-based UI, capable of handling dynamic content like live server stats or image carousels with multi-language support (English/French).
+![Main Website](website.png)
+
 
 ---
 
