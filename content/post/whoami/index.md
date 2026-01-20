@@ -11,7 +11,6 @@ tags:
 ---
 
 # [DOWNLOAD CV](/resume.pdf)
-# [VIEW CV (PURE HTML)](/resume.html)
 
 # Charles McLean
 
