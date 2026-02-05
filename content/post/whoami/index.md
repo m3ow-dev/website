@@ -10,7 +10,7 @@ tags:
 
 ---
 
-# [DOWNLOAD CV](/resume.pdf)
+# [DOWNLOAD CV](/CharlesMclean.pdf)
 
 # Charles McLean
 
