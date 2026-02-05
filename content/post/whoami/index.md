@@ -10,8 +10,6 @@ tags:
 
 ---
 
-# [DOWNLOAD CV](CharlesMclean.pdf)
-
 # Charles McLean
 
 **CPTS | Cyber Security Analyst | Aspiring Cloud Architect**
