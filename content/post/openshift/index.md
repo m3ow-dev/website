@@ -2,7 +2,7 @@
 title: OpenShift (The Hard Way)
 description: My personal experience with OKD and all the things I learnt along the way.
 slug: openshift
-date: 2025-07-30 00:00:00+0000
+date: 2025-02-11 00:00:00+0000
 weight: 1
 tags:
 - openshift
