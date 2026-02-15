@@ -26,6 +26,12 @@ I then looked more into the world of RedHat to see what succulent products they 
 
 ### OKD 2.0
 
-Now back to the drawing board. I looked at my options and spent another 8-10 hours finding the best way to install the OKD platform. And now here I am, installing my own OKD on my on-prem infra as the main hypervisor using the agent installation method. All while suffering through the 200kb/s speed of the HP iLO 4 web interface's virtual media mount.
+Now back to the drawing board. I looked at my options and spent another 8-10 hours finding the best way to install the OKD platform. And now here I am, installing my own OKD on my on-prem infra as the main hypervisor using the agent installation method. All while suffering through the 200kb/s speed of the HP ILO 4 web interface's virtual media mount.
 
--- More to come --
+### OKD 2.1 
+
+Turns out Centos10 is no longer supported by the HP ProLiant 360p Gen8, the server literally resets after booting the iso from both ventoy and dd-ing the iso directly on the usb key. So instead of installing it baremetal, we decided to sell this Gen8 and buy something more recent to fix this problem. For now, the OKD cluster is running in VMs on our other two servers which is working flawlessly. It does use about 30 gbn of ram idle (over threee nodes), which is a bit worrying but the install and upgrade operations to OpenShift 4.21.0-okd-scos.5 was without any headaches. Up until now, i am very happy with OKD's performance and ease of use. It is OpenShift after all, and me, being a RedHat glazer loves to have anything RHEL-related.
+
+I also sumbled across RDO OpenStack which is more promissing in terms of ease of installation than pure vanilla OpenStack. And this line on the CentOS looks very very interesting "With RDO, you can also deploy certain OpenStack Services within an OKD cluster" 
+
+To be tested... 
